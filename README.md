@@ -1,2 +1,5 @@
 # Natural-Lanuage-Processing
-NLP-Practice
+
+1. Audio Classification 
+
+Whale-Sound Classification - Librosa and TorchAudio
